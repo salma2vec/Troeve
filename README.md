@@ -8,7 +8,10 @@ They have been forced from their homes for many of the same reasons as refugees,
 They also **outnumber refugees two to one.** No international agency has a formal mandate to aid them. But, they are increasingly at the forefront of the humanitarian agenda. They are sometimes called ‘internal refugees’, but are more often known as internally displaced persons.
 
 # Problem Statement
-Now, to truly comprehend the gravity of the situation- the number of such unfortunately uprooted communties, Let's also give the stats a glance. 
+
+Internally displaced persons (IDPs) are among the world’s most vulnerable people and IDPs in several countries of the world pose serious challenges for humanity. In recent months, millions of people have been internally displaced in different parts of the world. As IDPs have not crossed an international border (as is the case of refugees), they have to find sanctuary inside their home countries and remain legally under the protection of their own government, even though their own government might be responsible for uprooting them.
+
+Now, to truly comprehend the gravity of the situation - the number of such unfortunately uprooted communties, Let's also give the stats a glance. 
 
 According to the Global IDP Survey, there are more than 13 million internally displaced persons in Africa, 5–6 million in Asia (including the Middle East), 3 million in Europe and 3–4 million in the Americas.
 <center><img src="https://www.statista.com/graphic/1/268702/number-of-refugees-and-internally-displaced-persons-worldwide-since-2000.jpg" height="300px" width="600px"></center>
