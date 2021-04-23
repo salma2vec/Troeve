@@ -30,9 +30,9 @@ It is high time the entire international community addresses these problems: to 
 
 # Proposed solution 
 
+To ensure that the IDPs are not deprived of their cardinal right to **Basic Humanitarian Assistance**, we proffer to create a system that directs the internally displaced to their nearest refugee camps.
 
-
-
+**Troeve** will thus serve as a platform that can direct the victims to their nearest IDP camps – where they will be provided with basic amenities, thus helping them find durable solutions for shelter.
 
 
 # Technical details
