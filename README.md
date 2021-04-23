@@ -36,7 +36,20 @@ It is high time the entire international community addresses these problems: to 
 
 
 # Technical details
+## Parts
+The project is divided into 3 parts:
 
+### 1. Cloud
+The data (geolocations) of the IDP camps will be stored in a firebase database. The read, write and fetch functions on the firebase database and calculation of distance and nearest camp is done in the cloud.
+
+### 2. User/Victim’s side
+The user side application can be used in Online as well as offline modes(Usually, there are connectivity uses after natural calamities).
+|  Online Mode                                         |                            Offline Mode      |                         
+|:----------------------------------------------------:|:--------------------------------------------:|
+| The online mode captures the geolocation of the user and sends it to the cloud VM. It directs the user to the nearest IDP Camp using Google Maps after receiving  the coordinates from the cloud.| The offline mode sends the current GPS coordinates to the SMS base station via a SMS message and shows the route directions to the nearest IDP camp.|  
+
+### 3. SMS Base station
+The SMS Base station receives the GPS coordinates of the user via SMS and sends it to the cloud. Since we are well aware of the fact that the user is offline, we are fetching route directions and sending it back via another SMS.
 
 
 # Ease of deployment 
@@ -44,6 +57,8 @@ It is high time the entire international community addresses these problems: to 
 
 # Scope
 Since ours is an emergency based application platform, we are planning to have a tie up with the government or a local NGO ready to help during these dire calamities.
-
+## Modifications:
+- In further versions of the project, we aim to develop the application for Kai OS and other feature phones to ensure that they are not deprived of their cardinal right to **Basic Humanitarian Assistance.**
+- Backend Modification and implementation of load balancing to make Troeve available to more number of users at a time.
 
 # Business model
