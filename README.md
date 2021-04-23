@@ -52,10 +52,7 @@ The user side application can be used in Online as well as offline modes(Usually
 The SMS Base station will be equipped to receive the GPS coordinates of the user via SMS and send it to the cloud. Since we are well aware of the fact that the user is offline, we will be fetching route directions and sending it back via another SMS.
 
 
-# Ease of deployment 
-
-
 # Scope
 Since the application is an emergency based application platform, we are planning to have a tie up with the government or a local NGO ready to help during these dire calamities.
 
-# Business model
+
