@@ -18,7 +18,7 @@ Internally displaced persons (IDPs) are among the world’s most vulnerable peop
 Now, to truly comprehend the gravity of the situation - the number of such unfortunately uprooted communties, Let's also give the stats a glance. 
 
 According to the Global IDP Survey, there are more than 13 million internally displaced persons in Africa, 5–6 million in Asia (including the Middle East), 3 million in Europe and 3–4 million in the Americas.
-<center><img src="https://www.statista.com/graphic/1/268702/number-of-refugees-and-internally-displaced-persons-worldwide-since-2000.jpg" height="300px" width="600px"></center>
+<center><img src="https://www.statista.com/graphic/1/268702/number-of-refugees-and-internally-displaced-persons-worldwide-since-2000.jpg" height="400px" width="650px"></center>
 The statistics on internally displaced persons generally count only those who are
 displaced by conflict and persecution. 
 
