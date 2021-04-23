@@ -1,5 +1,4 @@
-# Troeve
-<img src="https://lh3.googleusercontent.com/17j93wlUld_mqTHg9LR5wnxZceKTK1QNPjlp84mSH_rLeEKEfYsb4B5CCGMLFIM0VAU2CwP-p7-FwGNAWa2ddkF4cFNV-p_VJxWngfN5opRgNofzeGjctiBdR1clUSBKaowQbPnvEQ=w2400">
+<img src="https://lh3.googleusercontent.com/12GECgYu8otu_llPsXo3WbYe2yM5dvTHdpxbwosnJ-fyIv0CgDj1MXrRzPO3Y4oI_0B5LET-4klR7XTaWx7soruoH4uEhM-YXubu8gBRECDnLeBEHlPi7y4FN-EgIMxmetv7n8V2aA=w2400"> 
 
 # Abstract
 
