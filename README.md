@@ -32,7 +32,7 @@ It is high time the entire international community addresses these problems: to 
 
 To ensure that the IDPs are not deprived of their cardinal right to **Basic Humanitarian Assistance**, we proffer to create a system that directs the internally displaced to their nearest refugee camps.
 
-**Troeve** will thus serve as a platform that can direct the victims to their nearest IDP camps – where they will be provided with basic amenities, thus helping them find durable solutions for shelter.
+**Troeve** will thus serve as a platform that can direct the victims to their nearest IDP camps – where they will be provided with basic amenities, thus helping them find durable solutions for shelter. Troeve acts by requesting the user location (in Online/Offline/PWA modes according to user situation) and mapping the, to the nearest IDP camp. The users will be provided with a map or with a text mentioning the road directions to the same.
 
 
 # Technical details
