@@ -53,6 +53,6 @@ The SMS Base station will be equipped to receive the GPS coordinates of the user
 
 
 # Scope
-Since the application is an emergency based application platform, we are planning to have a tie up with the government or a local NGO ready to help during these dire calamities.
+Since the application is an emergency based application platform, we are planning to collaborate/ have a tie-up with the government or a local NGO ready to help during these dire calamities.
 
 
