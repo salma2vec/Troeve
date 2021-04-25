@@ -1,5 +1,5 @@
-<img src="https://lh3.googleusercontent.com/12GECgYu8otu_llPsXo3WbYe2yM5dvTHdpxbwosnJ-fyIv0CgDj1MXrRzPO3Y4oI_0B5LET-4klR7XTaWx7soruoH4uEhM-YXubu8gBRECDnLeBEHlPi7y4FN-EgIMxmetv7n8V2aA=w2400"> 
 
+![](https://lh3.googleusercontent.com/12GECgYu8otu_llPsXo3WbYe2yM5dvTHdpxbwosnJ-fyIv0CgDj1MXrRzPO3Y4oI_0B5LET-4klR7XTaWx7soruoH4uEhM-YXubu8gBRECDnLeBEHlPi7y4FN-EgIMxmetv7n8V2aA=w2400)
 # Abstract
 
 ### *Firstly, Who are IDPs?*
@@ -18,7 +18,7 @@ Internally displaced persons (IDPs) are among the world’s most vulnerable peop
 Now, to truly comprehend the gravity of the situation - the number of such unfortunately uprooted communties, Let's also give the stats a glance. 
 
 According to the Global IDP Survey, there are more than 13 million internally displaced persons in Africa, 5–6 million in Asia (including the Middle East), 3 million in Europe and 3–4 million in the Americas.
-<center><img src="https://www.statista.com/graphic/1/268702/number-of-refugees-and-internally-displaced-persons-worldwide-since-2000.jpg" height="400px" width="650px"></center>
+![](https://www.statista.com/graphic/1/268702/number-of-refugees-and-internally-displaced-persons-worldwide-since-2000.jpg)
 The statistics on internally displaced persons generally count only those who are
 displaced by conflict and persecution. 
 
