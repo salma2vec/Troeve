@@ -57,6 +57,7 @@ The SMS Base station will be equipped to receive the GPS coordinates of the user
 - SMS with SIM900A GSM Module controlled by a Raspberry-Pi or a standard Linux Computer
 - Flutter
 - HTML, CSS and Javascript 
+
 More if required, will be added during prototyping stage.
 
 
