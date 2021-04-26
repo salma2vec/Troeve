@@ -51,6 +51,16 @@ The user side application can be used in Online as well as offline modes(Usually
 ### 3. SMS Base station
 The SMS Base station will be equipped to receive the GPS coordinates of the user via SMS and send it to the cloud. Since we are well aware of the fact that the user is offline, we will be fetching route directions and sending it back via another SMS.
 
+# Tech Stack
+- Firebase
+- Microsoft Azure Cloud Functions, Repl.it, or AWS Lambda
+- SMS with SIM900A GSM Module controlled by a Raspberry-Pi or a standard Linux Computer
+- Flutter
+- HTML, CSS and Javascript 
+More if required, will be added during prototyping stage.
+
+
+
 
 # Scope
 Since the application is an emergency based application platform, we are planning to collaborate/ have a tie-up with the government or a local NGO ready to help during these dire calamities.
