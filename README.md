@@ -6,7 +6,7 @@
 
 **According to the Guiding Principles on Internal Displacement, internally displaced persons are "persons or groups of persons who have been forced or obliged to flee or to leave their homes or places of habitual residence, in particular as a result of or in order to avoid the effects of armed conflict, situations of generalized violence, violations of human rights or natural or human-made disasters, and who have not crossed an internationally recognized border."**
 
-Therefore, In layman's terms- An internally displaced person (IDP) is someone who is forced to leave their home but who remains within their country's borders. They are often referred to as refugees, although they do not fall within the legal definitions of a refugee.
+Therefore, In layman's terms- An IDP is someone who is forced to leave their home but who remains within their country's borders. They are often referred to as refugees, although they do not fall within the legal definitions of a refugee.
 
 They have been forced from their homes for many of the same reasons as refugees, but have not crossed an international border. Often persecuted or under attack by their own governments, they are frequently in a more desperate situation than refugees. 
 They also **outnumber refugees two to one.** No international agency has a formal mandate to aid them. But, they are increasingly at the forefront of the humanitarian agenda.
