@@ -9,13 +9,13 @@
 Therefore, In layman's terms- An internally displaced person (IDP) is someone who is forced to leave their home but who remains within their country's borders. They are often referred to as refugees, although they do not fall within the legal definitions of a refugee.
 
 They have been forced from their homes for many of the same reasons as refugees, but have not crossed an international border. Often persecuted or under attack by their own governments, they are frequently in a more desperate situation than refugees. 
-They also **outnumber refugees two to one.** No international agency has a formal mandate to aid them. But, they are increasingly at the forefront of the humanitarian agenda. They are sometimes called ‘internal refugees’, but are more often known as internally displaced persons.
+They also **outnumber refugees two to one.** No international agency has a formal mandate to aid them. But, they are increasingly at the forefront of the humanitarian agenda.
 
 # Problem Statement
 
-Internally displaced persons (IDPs) are among the world’s most vulnerable people and IDPs in several countries of the world pose serious challenges for humanity. In recent months, millions of people have been internally displaced in different parts of the world. As IDPs have not crossed an international border (as is the case of refugees), they have to find sanctuary inside their home countries and remain legally under the protection of their own government, even though their own government might be responsible for uprooting them.
+Internally displaced persons are among the world’s most vulnerable people and IDPs in several countries of the world pose serious challenges for humanity. In recent months, millions of people have been internally displaced in different parts of the world. As IDPs have not crossed an international border (as is the case of refugees), they have to find sanctuary inside their home countries and remain legally under the protection of their own government, even though their own government might be responsible for uprooting them.
 
-Now, to truly comprehend the gravity of the situation - the number of such unfortunately uprooted communties, Let's also give the stats a glance. 
+Now, to truly comprehend the gravity of the situation - the number of such unfortunately uprooted communties, let's also give the stats a glance. 
 
 According to the Global IDP Survey, there are more than 13 million internally displaced persons in Africa, 5–6 million in Asia (including the Middle East), 3 million in Europe and 3–4 million in the Americas.
 ![](https://www.statista.com/graphic/1/268702/number-of-refugees-and-internally-displaced-persons-worldwide-since-2000.jpg)
@@ -25,8 +25,6 @@ displaced by conflict and persecution.
 But, **millions more have been uprooted within their own countries by natural disasters.**
 
 There are far too many IDPs who have been displaced for decades, often living in camps or with little access to mainstream services in urban areas. The overwhelming majority of internally displaced persons are women and children who are especially at risk of abuse of their basic rights. More often than refugees, the internally displaced tend to remain close to or become trapped in zones of conflict, caught in the cross-fire and at risk of being used as pawns, targets or human shields by the belligerents.
-
-It is high time the entire international community addresses these problems: to ensure access to all IDPs and to find solutions for IDPs as soon as is practicable. As a particularly vulnerable population, the fate of IDPs rests with the strong commitment of the international community to work with governments to ensure adequate protection, assistance and solutions. Hence, this cause calls upon all to cooperate with each other to help address these needs pursuant to the "collaborative approach".
 
 # Proposed solution 
 
