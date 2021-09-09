@@ -1,5 +1,5 @@
+![dazzle](https://user-images.githubusercontent.com/65449934/132681823-f9639607-72af-4f63-a0ef-5551a87e589f.jpg)
 
-![](https://lh3.googleusercontent.com/12GECgYu8otu_llPsXo3WbYe2yM5dvTHdpxbwosnJ-fyIv0CgDj1MXrRzPO3Y4oI_0B5LET-4klR7XTaWx7soruoH4uEhM-YXubu8gBRECDnLeBEHlPi7y4FN-EgIMxmetv7n8V2aA=w2400)
 # Abstract
 
 ### *Firstly, Who are IDPs?*
@@ -18,11 +18,10 @@ Internally displaced persons are among the world’s most vulnerable people and 
 Now, to truly comprehend the gravity of the situation - the number of such unfortunately uprooted communties, let's also give the stats a glance. 
 
 According to the Global IDP Survey, there are more than 13 million internally displaced persons in Africa, 5–6 million in Asia (including the Middle East), 3 million in Europe and 3–4 million in the Americas.
-![](https://www.statista.com/graphic/1/268702/number-of-refugees-and-internally-displaced-persons-worldwide-since-2000.jpg)
-The statistics on internally displaced persons generally count only those who are
-displaced by conflict and persecution. 
 
-But, **millions more have been uprooted within their own countries by natural disasters.**
+![](https://www.statista.com/graphic/1/268702/number-of-refugees-and-internally-displaced-persons-worldwide-since-2000.jpg)
+
+**Millions more have been uprooted within their own countries by natural disasters.**
 
 There are far too many IDPs who have been displaced for decades, often living in camps or with little access to mainstream services in urban areas. The overwhelming majority of internally displaced persons are women and children who are especially at risk of abuse of their basic rights. More often than refugees, the internally displaced tend to remain close to or become trapped in zones of conflict, caught in the cross-fire and at risk of being used as pawns, targets or human shields by the belligerents.
 
@@ -31,6 +30,9 @@ There are far too many IDPs who have been displaced for decades, often living in
 To ensure that the IDPs are not deprived of their cardinal right to **Basic Humanitarian Assistance**, we proffer to create a system that directs the internally displaced to their nearest refugee camps.
 
 **Troeve** will thus serve as a platform that can direct the victims to their nearest IDP camps – where they will be provided with basic amenities, thus helping them find durable solutions for shelter. Troeve acts by requesting the user location (in Online/Offline/PWA modes depending on the user's situation) and mapping it to the nearest IDP camp. The users will be provided with a map or with a text mentioning the road directions to the same.
+
+
+https://user-images.githubusercontent.com/65449934/132681909-5ff334cb-d7c4-4316-95e7-8605281b87ae.mp4
 
 
 # Technical details
@@ -61,7 +63,7 @@ More if required, will be added during prototyping stage.
 
 
 
-# Scope
+# Scope 
 Since the application is an emergency based application platform, we are planning to collaborate/ have a tie-up with the government or a local NGO ready to help during these dire calamities.
 
 
